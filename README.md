@@ -8,3 +8,8 @@
 
 ## Acknowledge
 - Christopher Hassø and Carl Emil
+
+## Links
+
+- Computer Vision - Models, Learning and Interference, some of the pages are really good.
+- https://www.uio.no/studier/emner/matnat/its/nedlagte-emner/UNIK4690/v18/lectures/
