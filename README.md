@@ -17,3 +17,6 @@
 
 Stat book:
 - https://www.webpages.uidaho.edu/~stevel/519/Applied%20Multivariate%20Statistical%20Analysis%20by%20Johnson%20and%20Wichern.pdf
+
+GMM (extra)
+- https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf
